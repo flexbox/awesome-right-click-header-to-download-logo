@@ -6,6 +6,8 @@
 
 > right click > download assets FTW
 
+This is a curated list of awesome logos and headers that you can easily download by right-clicking on them.
+
 ## Contents
 
 - [expo.dev](https://expo.dev/) 
