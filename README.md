@@ -10,7 +10,7 @@ This is a curated list of awesome logos and headers that you can **easily downlo
 
 ## Contents
 
-- [expo.dev](https://expo.dev/) 
-- [callstack](https://www.callstack.com/)
-- [infinite.red](https://infinite.red/)
-- [linear](https://linear.app/)
+- [expo.dev](https://expo.dev)
+- [callstack](https://www.callstack.com)
+- [infinite.red](https://infinite.red)
+- [linear](https://linear.app)
