@@ -18,3 +18,4 @@ This is a curated list of awesome logos and headers that you can **easily downlo
 - [linear](https://linear.app)
 - [chift](https://www.chift.eu)
 - [react](https://react.dev)
+- [surferseo](https://surferseo.com)
